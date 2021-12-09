@@ -11,6 +11,7 @@ namespace LinkedList
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to LinkedList Program");
+            LinkedList linkedList = new LinkedList();
        
             Console.ReadKey();
 
